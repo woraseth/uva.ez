@@ -1,8 +1,6 @@
 // 401 - Palindromes
 // 3AE is a mirror palindrome
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class Main {
