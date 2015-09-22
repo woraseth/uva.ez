@@ -1,4 +1,5 @@
 // 893 - Y3K Problem
+// GregorianCalendar shortest possible?
 
 import java.util.GregorianCalendar;
 import java.util.Scanner;
