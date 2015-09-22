@@ -1,6 +1,15 @@
 // 11479 - Is this the easiest problem?
 // sort helps
 // has to use 'long'
+/*
+6
+5 4 -1
+5 4 0
+5 4 3
+5 4 8
+5 4 9
+2000000000 2000000000 2000000001
+*/
 
 
 import java.util.Arrays;
