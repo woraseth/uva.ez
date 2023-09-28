@@ -17,6 +17,8 @@ public class Main {
         max = Math.max(max, a-b);
         min = Math.min(min, a-b);
       }
+      if (t > 0) System.out.println("");
+      
       if (max == min) 
         System.out.println("yes");
       else
