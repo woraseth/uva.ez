@@ -16,8 +16,8 @@ public class Main {
       people[i] = sc.next();
     }
 
+    int pos = 0;
     while (true) {
-      int pos = 0;
       for (int i = 0; i < a.length; i++) {
         System.out.printf("%s: %s%n", people[pos], a[i]);
         sing[pos] = true;
